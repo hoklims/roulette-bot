@@ -1,10 +1,9 @@
 # roulette-bot
 Bot de Roulette Automatisé avec Interface Graphique
 
-
 # Bot de Roulette Automatisé
 
-![Interface du Bot](https://imgur.com/vmQp3CX)
+![Interface du Bot](https://i.imgur.com/vmQp3CX.png)
 
 ## Caractéristiques
 
@@ -15,19 +14,19 @@ Bot de Roulette Automatisé avec Interface Graphique
 
 ## Fonctionnalités Principales
 
-**Configuration Avancée**
+### Configuration Avancée
 - Mise initiale personnalisable
 - Nombre de séquences ajustable
 - Simulation de décomposition des mises
 - Gestion des pertes simulées
 
-**Contrôle & Automatisation**
+### Contrôle & Automatisation
 - Lancement Chrome automatique
 - Vérification de détection intégrée
 - Planification des sessions
 - Arrêt d'urgence
 
-**Suivi en Temps Réel**
+### Suivi en Temps Réel
 - Affichage du nombre de tours
 - Suivi de la balance
 - État des mises en cours
